@@ -74,3 +74,4 @@ The chatbot solution is built using the following components:
 - Implement text ROI detection to handle infographics and noise during document chunking.
 - Explore alternative text splitting techniques (e.g., Semantic Chunking, Agentic Chunking) for improved document processing.
 - Evaluate RAG flow using modules like ragas for context recall, precision, answer relevance score, and faithfulness with prepared ground truth data.
+- Adding conversational memory.
